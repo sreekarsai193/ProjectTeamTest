@@ -1,5 +1,5 @@
 # ProjectTeamTest
-hello gyus amit this side just upadted readme file for testing purpose only
+hello gyus amit this side just upadted readme file for the testing purpose only
 
 
 we are testing github workflow
